@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hello-wp-sol-client-side-solution",
+    "id": "96118110-9f92-4f6f-8a64-07098a83e9b0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/ChandrimaApp.sppkg"
+  }
+}
